@@ -43,6 +43,12 @@ body {
   transition: all 0.15s ease-in;
 }
 
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
 header {
   font-weight: 800;
 }
