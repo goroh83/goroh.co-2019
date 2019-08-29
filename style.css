@@ -43,11 +43,11 @@ body {
   transition: all 0.15s ease-in;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   body {
     font-size: 14px;
   }
-}
+} */
 
 header {
   font-weight: 800;
@@ -220,11 +220,11 @@ h1 {
   }
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   main {
     padding: 0 16px;
   }
-}
+} */
 
 /**
  * Tooltip Styles
